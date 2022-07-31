@@ -1,0 +1,2 @@
+# type-starter
+Typescript starter
