@@ -25,9 +25,9 @@ The following packages are used as dev-dependencies:
 
 *Type-starter*, aims to be a starting point for any TypeScript project.  
 While some assumptions were made. Not enough to be an opinionated template.  
+
 No testing frameworks have been included and the src and dist folders can be
-renamed to lib and build or whatever else may fit your fancy, be sure to change  
-the names of the files in all locations.  
+renamed to lib and build or whatever else may fit your fancy, be sure to change the names of the files in all locations.  
 
 ## Installation
 
@@ -52,6 +52,12 @@ Then
 
 ```sh
 git pull origin main
+```  
+
+And finally install the dependencies,  
+
+```sh
+npm i -D
 ```
 
 ## Usage
